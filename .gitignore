@@ -1,0 +1,14 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Editores
+.vscode/
+.idea/
+
+# Claude Code
+.claude/
